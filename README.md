@@ -15,7 +15,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaromelo1&layout=compact&langs_count=7&theme=discord_old_blurple"/>
     </div>
     <br>
-  <h2 style= "font-family: Arial, Helvetica, sans-serif;"> Linguagens </h2>
+  <h2 style= "font-family: Arial, Helvetica, sans-serif;"> Skills: </h2>
   
   <div style="display: inline_block" ><br>
     <img alignt="center" alt="HTML-5" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
