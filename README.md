@@ -1,10 +1,10 @@
   <h1>🌱 I’m currently learning Web Development Full-Stack at Trybe.</h1>
 <i>
   <ul>
-    <li>Hi, i'm Icaro Melo</li>
-    <li>Front-end Developer 🌐</li>
+    <li>Hi, i'm Icaro Melo.</li>
+    <li>Front-end Developer. 🌐</li>
     <li>Ask me about Javascript, ReactJS. 💻</li>
-    <li>I'm interested in new opportunities💼</li>
+    <li>I'm interested in new opportunities. 💼</li>
     <li>How to reach me: exemployt@gmail.com or @icarusdm in instagram. 📫</li>
   </ul>
 </i>
