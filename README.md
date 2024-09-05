@@ -1,4 +1,4 @@
-  <h1>🌱 I’m currently learning Web Development Full-Stack.</h1>
+  <h1>🌱 Web Developer Full-Stack.</h1>
 <i>
   <ul>
     <li>Hi, i'm Icaro Melo.</li>
